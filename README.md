@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jpolk7
+- 👀 I’m interested in Web Development!
+- 🌱 I’m currently learning AWS Cloud
